@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau:wght@1&display=swap');
+
+.taiwan_mid_container {
+    background-color: rgb(214, 228, 216);
+    border-radius: 20px;
+
+}
+
+.taiwan_bell_icon {
+    font-size: 36px;
+    margin-left: auto;
+    color: rgb(9, 29, 9);
+    padding: 15px;
+    transform: scale(.9);
+    border-radius: 60px;
+    padding-bottom: 0px;
+    width: fit-content;
+}
+
+.taiwan_bell_icon:hover {
+    font-size: 38px;
+}
+
+.taiwan_main_heading {
+    font-family: sans-serif;
+    font-weight: bold;
+
+}
+
+.taiwan_main_des {
+    font-weight: bold;
+
+
+    font-family: 'Ysabeau', sans-serif;
+}
+
+.main_left_container {
+    height: 100vh;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.taiwan_navbar_btn {
+    font-family: sans-serif;
+}
+
+.taiwan_recommented_heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+}
+
+.taiwan_recommented_heading:hover {
+    color: rgb(30, 95, 30);
+    transition: .6s;
+    transition-timing-function: ease-in-out;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.taiwan_recommented_heading_veiwall {
+    color: green;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.taiwan_recommented_heading_link {
+    color: rgb(9, 107, 53);
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.taiwan_detail_card {
+    height: 50vh;
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 20px;
+    box-shadow: 10px;
+
+}
+
+.kollam {
+    background-image: url('https://images.pexels.com/photos/6154943/pexels-photo-6154943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-size: cover;
+
+}
+
+.kochi {
+    background-image: url('https://images.pexels.com/photos/16550288/pexels-photo-16550288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+}
+
+.varkala {
+    background-image: url('https://images.pexels.com/photos/12326385/pexels-photo-12326385.jpeg');
+}
+
+.taiwan_detail_card_items {
+    background-color: white;
+    height: 20vh;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 8px;
+}
+
+.taiwan_detail_card_items_heading {
+    font-weight: bold;
+
+}
+
+.taiwan_detail_card_items_des {
+    font-weight: 400;
+
+}
+
+.taiwan_detail_card_items_price {
+    color: green;
+    font-weight: 600;
+}
+
+.taiwan_detail_card_items_day {
+    color: grey;
+}
+
+.taiwan_main_container {
+    height: fit-content;
+    background-size: cover;
+}
+
+.taiwan_main_container {
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 70px;
+}
+
+.main_left_logo {
+    width: 40%;
+}
+
+.left_logo_des {
+    font-size: 33px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif color: green;
+}
+
+.left_logo_span {
+    color: red;
+}
+
+.left_list {
+    color: green;
+    border: 1px solid green;
+    background-color: white;
+    padding: 10px;
+    font-size: 26px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Ysabeau', sans-serif;
+
+}
+
+.left_list:hover {
+    color: white;
+    background-color: green;
+    transition: 1.1s;
+    transition-timing-function: ease-in-out;
+}
+
+.right_main_heading {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+
+
+}
+
+.main_right_container {
+    background-image: url('https://images.pexels.com/photos/12326385/pexels-photo-12326385.jpeg');
+    background-size: cover;
+    height: 100vh;
+    border-radius: 5px;
+}
+
+.right_img_profile {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: rgb(186, 180, 180);
+}
+
+.right_name {
+    color: white;
+    text-shadow: 2px;
+    font-weight: 400;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.right_name_des {
+    color: white;
+    font-family: sans-serif;
+    font-weight: 200;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.taiwan_footer {
+    height: 30vh;
+    background-color: grey;
+}
+
+.main_header_small_device_hand_wave {
+    font-size: 26px;
+    color: rgb(201, 187, 32);
+}
+
+.main_header_small_device {
+    color: white;
+    background-color: rgb(39, 129, 104);
+    padding: 10px;
+    height: 70px;
+}
+
+.heading_right {
+    margin-left: auto;
+}
+
+.main_header_right_icon {
+    font-size: 28px;
+    color: rgb(197, 22, 182);
+}
+
+.main_header_right_profile {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: grey;
+    margin-left: 15px;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+
+.main_header_bar {
+    font-size: 28px;
+}
+
+body {
+    cursor: pointer;
+}
+
+.taiwan_recommented_heading_des {
+    margin-left: auto;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.portpolio_wd_section_card {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.portpolio_wd_section {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    background-size: cover;
+    padding: 15px;
+}
+
+.portpolio_wd_section_card_2 {
+    color: white;
+}
+
+.portpolio_wd_section_card_3 {
+    color: white;
+    font-weight: 300;
+}
+
+.hr {
+    color: white;
+}
+
+.pf_footer_img {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.pf_footer_yellow {
+    color: green;
+    font-weight: 600;
+    font-size: 26px;
+    padding-left: 10px;
+}
+
+.pf_footer_grey {
+    color: #51565b;
+    font-weight: 600;
+    font-size: 26px;
+    padding-left: 10px;
+}
+
+.pf_footer_main {
+    background-color: rgb(214, 228, 216);
+
+}
+
+.pf_footer_icon {
+    color: #9aa5b1;
+    font-size: 28px;
+}
+
+.main_left_container {
+    position: fixed;
+    float: right;
+    right: 0px;
+}
+
+.right_img_profile {
+    background-image: url('https://ik.imagekit.io/9pisu4akvm/logo_page_barnner.png?updatedAt=1684994409909');
+    background-size: cover;
+
+}
